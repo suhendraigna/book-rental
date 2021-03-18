@@ -1,0 +1,3 @@
+#F9A826 -> color
+#f0ae45 -> 2nd color
+#d18a17 -> hover color
